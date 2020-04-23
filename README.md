@@ -1,5 +1,5 @@
 # Smallcode
-Exercises in creating <512 byte demos [This file too]
+Exercises in creating <512 byte demos [This too!]
 
 Currently consists of :    
 Sierpinski Gasket [351 Bytes]    
