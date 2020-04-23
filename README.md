@@ -1,8 +1,10 @@
 # Tinycode
-Exercises in making <512 byte demos    
-Generally ones that you can't read yet somehow do what it says it does
+Exercises in making <512 byte demos
 
 Consists of :    
-Sierpinski Gasket [351 Bytes]    
-Mandelbrot set [170 Bytes]    
+[D] Sierpinski Gasket [351 Bytes]    
+[D] Mandelbrot set [170 Bytes]    
 Windows crasher [349 Bytes]    
+This [111 Bytes]
+
+The dense folder [D] is for hard to understand/obfuscated demos
