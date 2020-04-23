@@ -1,7 +1,7 @@
 # Smallcode
-Exercises in creating source code for programs that are at or under 512 bytes
+Exercises in creating <512 byte demos [This file too]
 
 Currently consists of :    
-Sierpinski Gasket generator [351 Bytes/Characters]    
-Mandelbrot set generator [170 Bytes/Characters]    
-Windows system crasher [349 Bytes/Characters]    
+Sierpinski Gasket [351 Bytes]    
+Mandelbrot set [170 Bytes]    
+Windows crasher [349 Bytes]    
